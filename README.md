@@ -1,4 +1,6 @@
 # LiChess data analysis
+[![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](https://opensource.org/licenses/MIT)
+
 ## 🔎 Overview
 This project involves analyzing a large dataset from LiChess, the second most visited chess website worldwide with over 3 million games played daily.
 
